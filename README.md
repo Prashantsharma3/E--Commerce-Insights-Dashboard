@@ -14,6 +14,9 @@ In this project, I have used Power BI to create dynamic and interactive dashboar
 - Ability to source and integrate data from various databases and APIs.
 - Competence in exporting Power BI reports to PDF format.
 
+  ## Power BI Dashboard Link
+  https://app.powerbi.com/groups/me/dashboards/be37ef23-cbe9-4010-96d1-da83e17820d4?experience=power-bi
+
 ## Installation and Setup
 1. Download and install Power BI Desktop from the official Microsoft website.
 2. Clone this repository to your local machine.
